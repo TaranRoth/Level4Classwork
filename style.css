@@ -1,0 +1,11 @@
+div {
+    border: thick double black;
+}
+
+textarea {
+    width: 50%;
+}
+
+body {
+    font: bold 18pt calibri;
+}
