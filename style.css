@@ -8,4 +8,13 @@ textarea {
 
 body {
     font: bold 18pt calibri;
+    text-align: center;
+}
+
+button {
+    font: 16pt arial;
+}
+
+h1 {
+    text-align: center;
 }
